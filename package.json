@@ -16,5 +16,8 @@
     "ncp": "^2.0.0",
     "nodegit": "^0.16.0"
   },
-  "preferGlobal": "true"
+  "preferGlobal": "true",
+  "bin": {
+    "trifecta-node": "trifecta.js"
+  },
 }
